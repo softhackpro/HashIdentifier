@@ -8,7 +8,9 @@ GUI hash identifier Search for hash types. This hash identifier is created by th
 Easy to use by anyone with no problem. It is a gui based tool for Ethical Hackers and ctf players. There are two types of files, one for the window user and the other for the Linux user.
 
 <br>
+
 ![1](https://github.com/softhackpro/HashIdentifier/blob/main/hash.png)
+
 <br>
 
 # The download process:<br>
