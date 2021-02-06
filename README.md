@@ -24,8 +24,9 @@ cd /home/$USER/dir<name>/HashIdentifier/hashidentifier/
 <br>
 
 Third run this executable file <br>
-(a)For Window User run - hashfinder.exe
-(b)For Linux User run - hashfinder
+(a)For Window User run - hashfinder.exe (double click)
+<br>
+(b)For Linux User run - hashfinder (double click)
 
 <br>
 You also run using <br>
